@@ -7,3 +7,15 @@ Dash apps are rendered in the web browser. You can deploy your apps to servers a
 ## Dash App Gallery
 
 https://dash-gallery.plotly.host/Portal/
+
+
+## Dash Installation
+
+pip install dash==1.13.3
+https://dash.plotly.com/installation
+
+## Dash Components
+
+1. [Dash html component]https://dash.plotly.com/dash-core-components
+2. Dash core component
+3.Dash data tabel
